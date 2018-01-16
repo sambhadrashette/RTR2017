@@ -1,0 +1,9 @@
+THis error comes when initialize() methos no called in program
+
+
+ ./xwindow_OpenGL_program
+X Error of failed request:  BadMatch (invalid parameter attributes)
+  Major opcode of failed request:  155 (GLX)
+  Minor opcode of failed request:  11 (X_GLXSwapBuffers)
+  Serial number of failed request:  32
+  Current serial number in output stream:  34

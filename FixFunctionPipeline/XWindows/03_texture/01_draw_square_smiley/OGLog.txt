@@ -1,0 +1,16 @@
+Entering into create window.
+Returning from create window.
+Failed to create GLX 4.5 context, hence using old -style GLX Context
+Indirect GLX rendering context obtained
+Entering : resize.
+returning : resize.
+Entering into game loop.
+Entering : resize.
+returning : resize.
+Entering : resize.
+returning : resize.
+Entering : resize.
+returning : resize.
+exit from game loop.
+Entering : uninitialize.
+Closing log file.

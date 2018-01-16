@@ -1,0 +1,7 @@
+Got this error after running the program
+
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  155 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  32
+  Current serial number in output stream:  31

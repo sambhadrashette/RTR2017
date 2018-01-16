@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Olaf\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b3125b9efde665f2658a862ff09efc88\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="F:\RTR2017\ProgrammablePipeline\Android\02_gestureListener_doubleTapListener\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Olaf\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="F:\RTR2017\ProgrammablePipeline\Android\02_gestureListener_doubleTapListener\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+
+</items>
