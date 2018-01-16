@@ -1,0 +1,41 @@
+Entering into create window.
+5 Matching FB configs found.
+Matching Framebuffer config=0, VisualID=0x65, SAMPLE_BUFFERS=0, SAMPLES=0
+Matching Framebuffer config=1, VisualID=0x181, SAMPLE_BUFFERS=0, SAMPLES=0
+Matching Framebuffer config=2, VisualID=0x258, SAMPLE_BUFFERS=1, SAMPLES=4
+Matching Framebuffer config=3, VisualID=0x259, SAMPLE_BUFFERS=1, SAMPLES=8
+Matching Framebuffer config=4, VisualID=0x253, SAMPLE_BUFFERS=0, SAMPLES=0
+Chosen visual ID=0x259
+Returning from create window.
+OpenGL Context 4.5 is created.
+Direct GLX rendering context obtained
+Entering : resize.
+returning : resize.
+Entering into game loop.
+Entering : resize.
+returning : resize.
+Entering : resize.
+returning : resize.
+Entering : resize.
+returning : resize.
+Entering : ToggleFullscreen.
+Returning : ToggleFullscreen.
+Entering : resize.
+returning : resize.
+Entering : resize.
+returning : resize.
+Entering : resize.
+returning : resize.
+Entering : resize.
+returning : resize.
+Entering : ToggleFullscreen.
+Returning : ToggleFullscreen.
+Entering : resize.
+returning : resize.
+Entering : resize.
+returning : resize.
+Entering : resize.
+returning : resize.
+exit from game loop.
+Entering : uninitialize.
+Closing log file.
