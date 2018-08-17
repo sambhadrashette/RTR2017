@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="F:\RTR2017\ProgrammablePipeline\Android\09_ColoredTriangleSquare2DRotation\app\src\main\shaders"/></dataSet><dataSet config="release"><source path="F:\RTR2017\ProgrammablePipeline\Android\09_ColoredTriangleSquare2DRotation\app\src\release\shaders"/></dataSet></merger>

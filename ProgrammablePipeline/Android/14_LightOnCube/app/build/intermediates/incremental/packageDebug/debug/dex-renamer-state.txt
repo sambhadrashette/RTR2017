@@ -1,0 +1,4 @@
+#Wed May 16 03:02:19 IST 2018
+base.0=F\:\\RTR2017\\ProgrammablePipeline\\Android\\14_LightOnCube\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

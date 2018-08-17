@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed May 16 04:08:18 IST 2018
+0.baseType=DIRECTORY
+0.base=F\:\\RTR2017\\ProgrammablePipeline\\Android\\17_24_spheres\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

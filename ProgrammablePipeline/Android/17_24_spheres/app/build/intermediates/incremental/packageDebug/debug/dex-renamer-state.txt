@@ -1,0 +1,4 @@
+#Wed May 16 04:08:18 IST 2018
+base.0=F\:\\RTR2017\\ProgrammablePipeline\\Android\\17_24_spheres\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,4 @@
+#Fri May 04 03:21:13 IST 2018
+base.0=F\:\\RTR2017\\ProgrammablePipeline\\Android\\09_ColoredTriangleSquare\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,6 @@
+===================================== Extension Details ======================================= 
+Total extension supported : 240 
+===================================== Extension Details ======================================= 
+Vertex shader compilation status : 1
+Fragment shader compilation status : 1
+Shader Linking status : 1

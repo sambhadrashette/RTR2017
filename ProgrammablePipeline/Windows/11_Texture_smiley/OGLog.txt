@@ -1,0 +1,6 @@
+===================================== Extension Details ======================================= 
+Total extension supported : 240 
+===================================== Extension Details ======================================= 
+Vertext Shader Program status: 1
+Fragment Shader Program status: 1
+ Shader Program Linking status: 1
